@@ -1,5 +1,5 @@
 project: jacob-clemente/dr_libs
-target: dr_libs
+target: drlibs
 
 cmds:
-  - cmd: /dr_libs
+  - cmd: /drlibs
