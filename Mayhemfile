@@ -3,3 +3,5 @@ target: drlibs
 
 cmds:
   - cmd: /drlibs
+tests:
+  - file:///home/mayhem/tests

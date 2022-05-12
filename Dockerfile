@@ -16,3 +16,4 @@ FROM --platform=linux/amd64 ubuntu:20.04
 
 ## TODO: Change <Path in Builder Stage>
 COPY --from=builder /dr_libs/drlibs /
+RUN mkdir -p /home/mayhem/tests
